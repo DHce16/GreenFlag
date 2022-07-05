@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RyanRiley_GreenFlag</string>
+    <string name="tick">a green tick</string>
+    <string name="btn_make_account">A green button to create account page</string>
+    <string name="Logo">Company Logo</string>
+    <string name="descrip_text">Green Flag customers can create an account to access</string>
+    <string name="lst_item1">Car Health Update</string>
+    <string name="lst_item2">Request a rescue online</string>
+    <string name="lst_item3">Policy information</string>
+    <string name="btn_words_main">Create an Account</string>
+    <string name="email_address">Email address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="back_button">Back Button</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="bottom_descrip">Your Password should have a minimum of 8 characters and contain at least one number, one uppercase, and one lowercase letter.You can use special characters.</string>
+    <string name="next_button">Next Button</string>
+    <string name="next">Next</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="account_exists">Account already exists for this email</string>
+    <string name="enter_pass_warn">One of the Passwords you entered is not Valid</string>
+    <string name="pass_no_match">Your Passwords do not match</string>
+</resources>
